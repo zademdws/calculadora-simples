@@ -27,6 +27,6 @@ Mesmo sendo um projeto bem básico sinto que consegui aplicar da maneira em que 
 
 ## ⚪ Como contribuir?
 
-1. Primeiro, [bifurque este repositório](https://github.com/Nwerit/projeto-site). Isso adicionará a versão atual do repositório à sua conta.
+1. Primeiro, [bifurque este repositório](https://github.com/Nwerit/calculadora-simples). Isso adicionará a versão atual do repositório à sua conta.
 
 2. Agora você pode baixá-lo para sua máquina e alterar o que quiser (recomendo usar o [Live Server](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer) para testes).
