@@ -3,7 +3,7 @@
 </h1>
 
 
-#### [Acesse o projeto]()
+#### [Acesse o projeto](https://nwerit.github.io/calculadora-simples/)
 
 ## 💭 Sobre o projeto
 
